@@ -93,20 +93,17 @@ I am a dedicated software engineer with over 5 years of diverse professional exp
 - **Server:** Wamp Server 2.1x
 
 ### Advertising Agency
-- **Programming Language:** ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dot-net&logoColor=white) with
-- ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+- **Programming Language:** ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dot-net&logoColor=white) with ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 - **Frontend:** ![MS Visual Studio](https://img.shields.io/badge/-MS%20Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 - **Backend:** ![MS SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 ### Flight Reservation System
-- **Programming Language:** ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dot-net&logoColor=white) with
-- ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+- **Programming Language:** ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dot-net&logoColor=white) with ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 - **Frontend:** ![MS Visual Studio](https://img.shields.io/badge/-MS%20Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 - **Backend:** ![MS SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 ### Material Inward-Outward System
-- **Programming Language:** ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dot-net&logoColor=white) with
-- ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+- **Programming Language:** ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dot-net&logoColor=white) with ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 - **Frontend:** ![MS Visual Studio](https://img.shields.io/badge/-MS%20Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 - **Backend:** ![MS SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
