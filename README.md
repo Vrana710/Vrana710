@@ -7,14 +7,14 @@ I am a dedicated software engineer with over 5 years of diverse professional exp
 ### ERP Application Developer
 **Th. Geyer GmbH & Co. KG**  
 *February 2023 - May 2023*  
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) Manual and Automation Testing
-- Backend Java programming
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) Manual and Automation ![Software Testing](https://img.shields.io/badge/-Software%20Testing-6DB33F?style=flat&logo=checkmarx&logoColor=white),
+- Backend Java programming, OOPConcepts
 
 ### Teaching Assistant
 **Bhagwan Mahavir College of Computer Application**  
 *January 2022 - April 2022*  
 - Taught BCA and MSc IT integrated courses
-- Covered ![Software Testing](https://img.shields.io/badge/-Software%20Testing-6DB33F?style=flat&logo=checkmarx&logoColor=white), Open Office Automation, ![Database Management](https://img.shields.io/badge/-DBMS-003B57?style=flat&logo=databricks&logoColor=white), and ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) Programming
+- Covered ![Software Testing](https://img.shields.io/badge/-Software%20Testing-6DB33F?style=flat&logo=checkmarx&logoColor=white), Apache OpenOffice Automation, ![Database Management](https://img.shields.io/badge/-DBMS-003B57?style=flat&logo=databricks&logoColor=white), and ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) Programming
 
 ### Faculty cum System Administrator
 **Jawahar Navodaya Vidyalaya**  
@@ -72,7 +72,7 @@ I am a dedicated software engineer with over 5 years of diverse professional exp
 ### Master of Computer Applications (MCA)
 **Gujarat Technological University**  
 *June 2015 - May 2017*  
-- Advanced ![DBMS](https://img.shields.io/badge/-DBMS-003B57?style=flat&logo=mysql&logoColor=white), ![Operating Systems Icon](https://img.shields.io/badge/-Operating%20Systems-0078D6?style=flat&logo=windows&logoColor=white), ![MIS/GIS](https://img.shields.io/badge/-MIS/GIS-007396?style=flat&logo=arcgis&logoColor=white), ![Software Development Icon](https://img.shields.io/badge/-Software%20Development-239120?style=flat&logo=github&logoColor=white), ![Computer Networking Icon](https://img.shields.io/badge/-Computer%20Networking-0078D4?style=flat&logo=cisco&logoColor=white), ![Data Warehousing Icon](https://img.shields.io/badge/-Data%20Warehousing-FF5733?style=flat&logo=apache&logoColor=white) & ![Data Mining Icon](https://img.shields.io/badge/-Data%20Mining-3DDC84?style=flat&logo=python&logoColor=white), ![Mobile Computing Icon](https://img.icons8.com/color/48/000000/mobile-device.png)
+- Advanced ![DBMS](https://img.shields.io/badge/-DBMS-003B57?style=flat&logo=mysql&logoColor=white), ![Operating Systems Icon](https://img.shields.io/badge/-Operating%20Systems-0078D6?style=flat&logo=windows&logoColor=white), ![MIS/GIS](https://img.shields.io/badge/-MIS/GIS-007396?style=flat&logo=arcgis&logoColor=white), ![Software Development Icon](https://img.shields.io/badge/-Software%20Development-239120?style=flat&logo=github&logoColor=white), ![Computer Networking Icon](https://img.shields.io/badge/-Computer%20Networking-0078D4?style=flat&logo=cisco&logoColor=white), ![Data Warehousing Icon](https://img.shields.io/badge/-Data%20Warehousing-FF5733?style=flat&logo=apache&logoColor=white) & ![Data Mining Icon](https://img.shields.io/badge/-Data%20Mining-3DDC84?style=flat&logo=python&logoColor=white), Mobile Computing (Android)
 
 ### Bachelor of Computer Science (BSc. CS)
 **Veer Narmad South Gujarat University**  
