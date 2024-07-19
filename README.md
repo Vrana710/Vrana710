@@ -108,7 +108,7 @@ I am a dedicated software engineer with over 5 years of diverse professional exp
 - **Backend:** ![MS SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 ## Contact
-[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:ranavarsha710@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varsha-rana-bbab6b158)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:ranavarsha710@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varsha-rana)
 
 
 ---
