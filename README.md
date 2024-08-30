@@ -13,4 +13,4 @@ I love teaching complex concepts in a simplified manner and am dedicated to deli
 ### Support My Work
 If you enjoy my work and would like to support me, feel free to [buy me a coffee](https://buymeacoffee.com/ranavarshan)! Your support helps me continue working on exciting projects and learning new technologies.
 
-## Thank you for visiting my profile! 🌟
+## Thank you for visiting my profile! 🌟 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Vrana710.visitor-badge&format=true)
