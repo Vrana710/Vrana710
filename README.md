@@ -1,6 +1,6 @@
 # Hey, I'm Varsha Rana! 👋
 
-I'm a passionate Software Engineer with over 5 years of experience in software development, testing, and teaching. My focus is on creating well-designed, scalable applications while emphasizing clean code, user experience, and continuous learning. I hold Bachelor's and Master's degrees in Computer Science, validated by ZAB in Germany, and I'm currently advancing my skills through an intensive software engineering bootcamp funded by the German Government.
+I'm a passionate Software Engineer with over 5 years of experience in software development, testing, and teaching. My focus is on creating well-designed, scalable applications while emphasizing clean code, user experience, and continuous learning. I hold Bachelor's and Master's degrees in Computer Science, validated by ZAB in Germany, and I'm currently advancing my skills through an intensive software engineering bootcamp funded by the German Government, along with my ongoing learning in AWS Cloud technologies.
 
 I love teaching complex concepts in a simplified manner and am dedicated to delivering high-quality projects that solve real-world problems. Feel free to explore my latest work on my [GitHub profile](https://github.com/Vrana710). If you have any questions or just want to connect, don’t hesitate to reach out!
 
