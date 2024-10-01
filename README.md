@@ -1,8 +1,8 @@
 # Hey, I'm Varsha Rana! 👋
 
-I'm a passionate Software Engineer with over 5 years of experience in software development, testing, and teaching. My focus is on creating well-designed, scalable applications while emphasizing clean code, user experience, and continuous learning. I hold Bachelor's and Master's degrees in Computer Science, validated by ZAB in Germany, and I'm currently advancing my skills through an intensive software engineering bootcamp funded by the German Government, along with my ongoing learning in AWS Cloud technologies.
+I'm a **passionate Software Engineer** with over **5 years of experience** in **software development** and **mentoring**. My focus is on creating **well-designed, scalable applications** while emphasizing **clean code**, **user experience**, and **continuous learning**. I hold **Bachelor's** and **Master's degrees in Computer Science**, validated by **ZAB in Germany**, and I'm currently advancing my skills through an **intensive software engineering bootcamp** funded by the **German Government**, along with my ongoing learning in **AWS Cloud technologies**.
 
-I love teaching complex concepts in a simplified manner and am dedicated to delivering high-quality projects that solve real-world problems. Feel free to explore my latest work on my [GitHub profile](https://github.com/Vrana710). If you have any questions or just want to connect, don’t hesitate to reach out!
+I love teaching **complex concepts** in a **simplified manner** and am dedicated to delivering **high-quality projects** that solve **real-world problems**. Feel free to explore my latest work on my [**GitHub profile**](https://github.com/Vrana710). If you have any questions or just want to connect, don’t hesitate to reach out!
 
 ### Let's Connect:
 [![Gmail](https://img.icons8.com/ios/24/000000/gmail.png)](mailto:ranavarsha710@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varsha-rana)
