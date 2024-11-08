@@ -33,11 +33,6 @@ I'm always excited to connect with fellow software engineers, developers, and te
 
 Let’s connect, collaborate, and inspire each other!
 
-
-Here’s an updated table with six columns for better categorization, each with required rows for different categories:
-
----
-
 ## 💻 ⚙️ Languages and Tools
 <div align="left">
 	<table>
