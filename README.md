@@ -99,9 +99,9 @@ If you enjoy my work and would like to support me, feel free to:
 <table style="width: 100%; text-align: center; border-collapse: collapse; margin: 20px 0;">
   <tr>
     <td colspan="2" style="padding: 20px;">
-      <a href="https://www.buymeacoffee.com/ranavarshan" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Support My Work" height="33" width="160" />
-      </a>
+	<a href="https://www.buymeacoffee.com/ranavarshan" target="_blank" rel="noopener noreferrer">
+	  <img src="https://img.shields.io/badge/Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Support My Work" height="33" width="160" />
+	</a>— Click here to contribute and make a difference!
     </td>
   </tr>
   <tr>
