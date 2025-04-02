@@ -10,7 +10,7 @@ I'm always excited to connect with fellow software engineers, developers, and te
   <tr style="background-color: #f2f2f2;">
     <th style="padding: 15px; border: 1px solid #ddd;">On LinkedIn</th>
     <th style="padding: 15px; border: 1px solid #ddd;">Via Email at</th>
-    <th style="padding: 15px; border: 1px solid #ddd;">Check out my Portfolio</th>
+<!-- <th style="padding: 15px; border: 1px solid #ddd;">Check out my Portfolio</th>-->
   </tr>
   <tr>
     <td style="padding: 15px; border: 1px solid #ddd;">
@@ -23,11 +23,11 @@ I'm always excited to connect with fellow software engineers, developers, and te
         <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" alt="Gmail Badge" width="90" height="40" style="border-radius: 5px;">
       </a>
     </td>
-    <td style="padding: 15px; border: 1px solid #ddd;">
+    <!--<td style="padding: 15px; border: 1px solid #ddd;">
       <a href="https://vrana710.github.io/Portfolio/">
         <img src="https://img.shields.io/badge/Portfolio-visit%20my%20site-FF5722?style=for-the-badge&logo=Google%20Chrome&logoColor=white" alt="Portfolio Badge">
       </a>
-    </td>
+    </td>-->
   </tr>
 </table>
 
