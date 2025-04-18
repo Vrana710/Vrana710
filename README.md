@@ -1,5 +1,6 @@
 # Hey, I'm Varsha Rana! 👋
-I'm a **passionate Software Engineer** with experience in **software development** and **mentoring**. My focus is on creating **well-designed, scalable applications** while emphasizing **clean code**, **user experience**, and **continuous learning**. I hold **Bachelor's degree in Computer Science** and **Master's degree in Computer Applications** from **India**, officially **recognized and validated by the Central Office for Foreign Education (ZAB) in Germany**, and Completed an **intensive software engineering bootcamp** funded by the **German Government**, Recently achieved the **AWS Certified Cloud Practitioner** certification, further strengthening my cloud expertise. Now focused on deepening my knowledge and expanding expertise in **AWS Cloud technologies**.
+## 🚀 DevOps Engineer | Cloud Enthusiast | Mentor
+I'm a passionate **DevOps Engineer** with **5+ years of experience** in software development, cloud infrastructure, and CI/CD automation. I hold a **ZAB-recognized Master’s in Computer Applications** and recently earned the **AWS Certified Cloud Practitioner** certification. 
 
 I love teaching **complex concepts** in a **simplified manner** and am dedicated to delivering **high-quality projects** that solve **real-world problems**. Feel free to explore my latest work on my [**GitHub profile**](https://github.com/Vrana710). If you have any questions or just want to connect, don’t hesitate to reach out!
 
