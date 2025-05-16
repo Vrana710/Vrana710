@@ -1,4 +1,4 @@
-# Hey, I'm Varsha Rana! 👋
+# Hey, I'm Varshabahen Rana! 👋
 ### 🚀 DevOps Engineer | Cloud Enthusiast | Mentor
 I'm a passionate **DevOps Engineer** with **5+ years of experience** in software development, cloud infrastructure, and CI/CD automation. I hold a **ZAB-recognized Master’s in Computer Applications** and recently earned the **AWS Certified Cloud Practitioner** certification. 
 
