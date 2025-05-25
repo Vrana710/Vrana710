@@ -16,7 +16,7 @@ I'm always excited to connect with fellow software engineers, developers, and te
   <tr>
     <td style="padding: 15px; border: 1px solid #ddd;">
       <a href="https://www.linkedin.com/in/varshabahen-rana/">
-        <img src="https://img.shields.io/badge/-Varsha%20Rana-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+        <img src="https://img.shields.io/badge/-Varshabahen%20Rana-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
       </a>
     </td>
     <td style="padding: 15px; border: 1px solid #ddd;">
